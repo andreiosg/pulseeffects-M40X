@@ -21,7 +21,8 @@ Additionally a `niceness` level of -15 was set, along with disabled input and ou
 
 The pulseeffects daemon was enabled.
 
-
+# Sound card
+Due to my laptop's internal sound card issues the external *DELOCK, Sound Box 7.1* was used.
 
 
 
