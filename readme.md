@@ -19,6 +19,10 @@ Pulseeffects config files present:
 # In app changes
 Additionally a `niceness` level of -15 was set, along with disabled input and output processing.
 
+Output: 
+- Block size = latency = 3096
+- Buffer = 300000 us
+
 The pulseeffects daemon was enabled.
 
 # Sound card
