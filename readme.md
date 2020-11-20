@@ -20,7 +20,8 @@ Pulseeffects config files present:
 Additionally a `niceness` level of -15 was set, along with disabled input and output processing.
 
 Output: 
-- Block size = latency = 3096
+- Block size = 4096
+- Latency = 4096 us
 - Buffer = 300000 us
 
 The pulseeffects daemon was enabled.
