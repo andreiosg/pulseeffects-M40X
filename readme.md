@@ -17,7 +17,7 @@ Pulseeffects config files present:
 - Preamp gain = Input 
 
 # In app changes
-Additionally a `niceness` level of -15 was set, along with disabled input and output processing.
+Additionally a `niceness` level of -17 was set, along with disabled input and output processing.
 
 Output: 
 - Block size = 4096
