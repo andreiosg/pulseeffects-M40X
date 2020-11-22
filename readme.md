@@ -19,7 +19,7 @@ Pulseeffects config files present:
 # In app changes
 Additionally a `niceness` level of -17 was set, along with disabled input and output processing.
 
-Output: 
+Output effects: 
 - Block size = 4096
 - Latency = 4096 us
 - Buffer = 300000 us
